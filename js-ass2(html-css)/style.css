@@ -111,3 +111,6 @@ background-color: palegoldenrod;
 .done{
     margin-top: 20px;
 }
+.body{
+   @media all and (max-width:480px)
+}
