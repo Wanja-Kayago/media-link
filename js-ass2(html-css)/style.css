@@ -1,0 +1,113 @@
+#divs{
+    display: flex;
+    justify-content: space-around;   
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cover{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.divss{
+    display: flex;
+    justify-content: center;
+    gap:100px ;
+}
+.indiv{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    justify-content: space-around;
+}
+.info{
+    display: flex;
+    justify-content: space-evenly;
+}
+.header{
+    display: flex;
+    justify-content: center;
+
+}
+.short{
+    display: flex;
+    gap: 500px;
+    justify-content: center;
+}
+.prt2{
+    display: flex;
+    justify-content: space-between;
+}
+.almost{
+    display: flex;
+    justify-content: space-around;
+}
+.pargrph{
+    display: flex;
+    justify-content: center;
+}
+.photo{
+    display: flex;
+    justify-content: center;
+}
+.paragrph{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+.WTS{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.qtn1{
+border: solid wheat;
+background-color: palegoldenrod;
+}
+.qtn2{
+    border: solid wheat;
+    background-color: palegoldenrod;
+
+}
+.qtn3{
+    border: solid wheat;
+    background-color: palegoldenrod;
+}
+.news{
+    display: flex;
+    justify-content: center;
+}
+
+.blog{
+    display: flex;
+    justify-content: center;
+}
+.lasties{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.button{
+    height: 30px;
+    margin-top: 20px;
+}
+.yellow{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+}
+.fooooterr{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    height: 500px;
+}
+.done{
+    margin-top: 20px;
+}
